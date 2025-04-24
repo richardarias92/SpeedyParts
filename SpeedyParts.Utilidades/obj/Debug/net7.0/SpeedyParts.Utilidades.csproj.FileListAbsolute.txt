@@ -1,0 +1,17 @@
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.Utilidades.deps.json
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.Utilidades.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.Utilidades.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.AssemblyInfo.cs
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\refint\SpeedyParts.Utilidades.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\ref\SpeedyParts.Utilidades.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.Modelo.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.DTO.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\bin\Debug\net7.0\SpeedyParts.Modelo.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Utilidades\obj\Debug\net7.0\SpeedyParts.Utilidades.csproj.CopyComplete

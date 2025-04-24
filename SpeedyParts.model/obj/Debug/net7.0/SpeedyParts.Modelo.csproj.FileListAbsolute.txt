@@ -1,0 +1,14 @@
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\bin\Debug\net7.0\SpeedyParts.Modelo.deps.json
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\bin\Debug\net7.0\SpeedyParts.Modelo.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\bin\Debug\net7.0\SpeedyParts.Modelo.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.csproj.AssemblyReference.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.AssemblyInfoInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.AssemblyInfo.cs
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\refint\SpeedyParts.Modelo.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\ref\SpeedyParts.Modelo.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\bin\Debug\net7.0\SpeedyParts.Modelo.runtimeconfig.json
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.model\obj\Debug\net7.0\SpeedyParts.Modelo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\bin\Debug\net7.0\SpeedyParts.DTO.deps.json
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\bin\Debug\net7.0\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\bin\Debug\net7.0\SpeedyParts.DTO.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.csproj.AssemblyReference.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.AssemblyInfoInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.AssemblyInfo.cs
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\refint\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\SpeedyParts.DTO.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.DTO\obj\Debug\net7.0\ref\SpeedyParts.DTO.dll
