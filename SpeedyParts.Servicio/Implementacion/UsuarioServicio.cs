@@ -33,7 +33,7 @@ namespace SpeedyParts.Servicio.Implementacion
 
                 if (fromDbModelo != null)
                     return _mapper.Map<SesionDTO>(fromDbModelo);
-                else throw new TaskCanceledException("No se Encontraron Coincidencias");   
+                else throw new TaskCanceledException("No se encontraron coincidencias");   
             }
             catch (Exception ex)
             {
@@ -46,7 +46,42 @@ namespace SpeedyParts.Servicio.Implementacion
         {
             try
             { 
+                var dbModelo = _mapper.Map<Usuario>(modelo);
+                var rspModelo = await _modeloRepositorio.Crear(dbModelo);
 
+                if (rspModelo.IdUsuario != 0)
+                    return _mapper.Map<UsuarioDTO>(rspModelo);
+
+                else throw new TaskCanceledException("No se pudo crear");
+            }   
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        public async Task<bool> Editar(UsuarioDTO modelo)
+        {
+            try
+            {
+                var consulta = _modeloRepositorio.Consultar( p => p.IdUsuario == modelo.IdUsuario );
+                var fromDbmodelo = await consulta.FirstOrDefaultAsync();
+
+                if (fromDbmodelo != null)
+
+                {
+                    fromDbmodelo.NombreCompleto = modelo.NombreCompleto;
+                    fromDbmodelo.Correo = modelo.Correo;
+                    fromDbmodelo.Clave = modelo.Clave;
+                    var respuesta = await _modeloRepositorio.Editar(fromDbmodelo);
+
+                    if (!respuesta)
+                        throw new TaskCanceledException("No se pudo editar");
+
+                    return respuesta;
+                }
+                else throw new TaskCanceledException("No se encontraron resultados");
             }
             catch (Exception ex)
             {
@@ -55,11 +90,23 @@ namespace SpeedyParts.Servicio.Implementacion
             }
         }
 
-        public Task<bool> Editar(UsuarioDTO modelo)
+        public async Task<bool> Eliminar(int id)
         {
             try
             {
+                var consulta = _modeloRepositorio.Consultar(p => p.IdUsuario == id);
+                var fromDbmodelo = await consulta.FirstOrDefaultAsync();
 
+                if (fromDbmodelo != null)
+                {
+                    var respuesta = await _modeloRepositorio.Eliminar(fromDbmodelo);
+
+                    if (!respuesta)
+                        throw new TaskCanceledException("No se pudo eliminar");
+
+                    return respuesta;
+                }
+                else throw new TaskCanceledException("No se encontraron resultados");
             }
             catch (Exception ex)
             {
@@ -68,11 +115,17 @@ namespace SpeedyParts.Servicio.Implementacion
             }
         }
 
-        public Task<bool> Eliminar(int id)
+        public async Task<List<UsuarioDTO>> Lista(string rol, string buscar)
         {
             try
             {
+                var consulta = _modeloRepositorio.Consultar(p =>
+                p.Rol == rol &&
+                string.Concat(p.NombreCompleto.ToLower(), p.Correo.ToLower()).Contains(buscar.ToLower()));
 
+                List<UsuarioDTO> lista = _mapper.Map<List<UsuarioDTO>>(await consulta.ToListAsync());
+
+                return lista;
             }
             catch (Exception ex)
             {
@@ -81,24 +134,17 @@ namespace SpeedyParts.Servicio.Implementacion
             }
         }
 
-        public Task<List<UsuarioDTO>> Lista(string rol, string buscar)
+        public async Task<UsuarioDTO> Obtener(int id)
         {
             try
             {
+                var consulta = _modeloRepositorio.Consultar(p => p.IdUsuario == id);
+                var fromDbModelo = await consulta.FirstOrDefaultAsync();
 
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-        }
-
-        public Task<UsuarioDTO> Obtener(int id)
-        {
-            try
-            {
-
+                if (fromDbModelo != null)
+                    return _mapper.Map<UsuarioDTO>(fromDbModelo);
+                else 
+                    throw new TaskCanceledException("No se encontraron coincidencias");
             }
             catch (Exception ex)
             {
