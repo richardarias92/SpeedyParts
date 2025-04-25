@@ -36,6 +36,8 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.DTO.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.WebAssembly.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.WebAssembly.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
@@ -318,6 +320,7 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.DTO.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
@@ -340,6 +343,7 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\SpeedyParts.DTO.pdb.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
@@ -602,6 +606,8 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\icudt_CJK.dat
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\icudt_EFIGS.dat
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\SpeedyParts.DTO.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\SpeedyParts.DTO.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\SpeedyParts.WebAssembly.csproj.AssemblyReference.cache
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\SpeedyParts.WebAssembly.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\SpeedyParts.WebAssembly.AssemblyInfoInputs.cache
@@ -806,6 +812,8 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\U+o7OTgR.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\4LPpOQ+c.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\mnD0z9BI.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\L5KNG5Lm.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\OrhyEL+f.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\Mbk4+Ch4.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\YQbffOu7.gz
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\1ONn4zdC.gz

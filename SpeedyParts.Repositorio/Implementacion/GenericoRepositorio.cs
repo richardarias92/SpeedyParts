@@ -25,6 +25,11 @@ namespace SpeedyParts.Repositorio.Implementacion
             return consulta;
         }
 
+        public IQueryable<TModelo> Consultar(Expression<Func<TModelo, bool>>? filtro = null)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<TModelo> Crear(TModelo modelo)
         {
             try

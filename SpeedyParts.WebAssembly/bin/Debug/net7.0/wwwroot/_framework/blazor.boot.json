@@ -198,13 +198,15 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "SpeedyParts.WebAssembly.dll": "sha256-E58Z0cd\/eor+kBa6SpWwKaYj6WtSuGFck0g2TJ\/\/KwM="
+      "SpeedyParts.DTO.dll": "sha256-Wz7f+nZ\/\/2UtNCxEViXsNI8c0q1se\/y2GlepVSVRpoA=",
+      "SpeedyParts.WebAssembly.dll": "sha256-iMvA9MpfAIv6ihat6tkZDhSFjuN2Y2WxEXlcoFbYG8s="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SpeedyParts.WebAssembly.pdb": "sha256-3nob6wAlqOlJmjr0wl\/O+RyIiDIiY2hbEmLT4H6Bg80="
+      "SpeedyParts.DTO.pdb": "sha256-Cz6Tcq9YITGTS1zoGvRDeXqzwVPpl7mdIwYm8PeZQOo=",
+      "SpeedyParts.WebAssembly.pdb": "sha256-bPCnmiA7YKjMRKziBaFLUhsi1dtnheB4lLsXgfFlDms="
     },
     "runtime": {
       "dotnet.7.0.9.0erv2fah0r.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",

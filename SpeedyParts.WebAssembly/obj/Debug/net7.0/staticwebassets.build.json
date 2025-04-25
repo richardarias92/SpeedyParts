@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OhUS9eFf3HPNcU328HrrQxwrjKD+Nn16U5MgsNj0jdA=",
+  "Hash": "aVayPHU7/wFTUs/VqH2kD1g1j7m/+4wvNrG74YdcIk8=",
   "Source": "SpeedyParts.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -661,6 +661,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.9\\runtimes\\browser-wasm\\lib\\net7.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.dll",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/SpeedyParts.DTO.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.DTO\\bin\\Debug\\net7.0\\SpeedyParts.DTO.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.pdb",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/SpeedyParts.DTO.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.DTO\\bin\\Debug\\net7.0\\SpeedyParts.DTO.pdb"
     },
     {
       "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.WebAssembly.dll",
@@ -5457,6 +5491,23 @@
       "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll"
     },
     {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\L5KNG5Lm.gz",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/SpeedyParts.DTO.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.dll"
+    },
+    {
       "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\lAfiwn43.gz",
       "SourceId": "SpeedyParts.WebAssembly",
       "SourceType": "Computed",
@@ -5829,6 +5880,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\OrhyEL+f.gz",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/SpeedyParts.DTO.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\SpeedyParts.DTO.pdb"
     },
     {
       "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\Oz+CT9kR.gz",
