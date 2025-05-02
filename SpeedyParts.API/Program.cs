@@ -4,6 +4,8 @@ using SpeedyParts.Repositorio.Contrato;
 using SpeedyParts.Repositorio.Implementacion;
 using SpeedyParts.Utilidades;
 
+using SpeedyParts.Servicio.Contrato;
+using SpeedyParts.Servicio.Implementacion;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -25,6 +27,12 @@ builder.Services.AddTransient(typeof(IGenericoRepositorio<>),typeof(GenericoRepo
 
 builder.Services.AddScoped<IVenta, VentaRepositorio>();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
+builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
+builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
+builder.Services.AddScoped<IVentaServicio, VentaServicio>();
+builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 
 var app = builder.Build();
 
