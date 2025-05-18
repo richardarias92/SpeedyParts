@@ -19,15 +19,11 @@ namespace SpeedyParts.Repositorio.Implementacion
             _dbContext = dbContext;
         }
 
-        public IQueryable<TModelo> COnsultar(Expression<Func<TModelo, bool>>? filtro = null)
-        {
-            IQueryable<TModelo> consulta = (filtro == null) ? _dbContext.Set<TModelo>() : _dbContext.Set<TModelo>().Where(filtro);
-            return consulta;
-        }
 
         public IQueryable<TModelo> Consultar(Expression<Func<TModelo, bool>>? filtro = null)
         {
-            throw new NotImplementedException();
+            IQueryable<TModelo> consulta = (filtro == null) ? _dbContext.Set<TModelo>() : _dbContext.Set<TModelo>().Where(filtro);
+            return consulta;
         }
 
         public async Task<TModelo> Crear(TModelo modelo)

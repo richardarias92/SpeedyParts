@@ -19,9 +19,9 @@ namespace SpeedyParts.API.Controllers
 
 
         [HttpGet("Lista/{rol:alpha}/{buscar:alpha?}")]
-        public async Task< IActionResult> Lista(string rol, string buscar = "N/A") {
+        public async Task<IActionResult> Lista(string rol, string buscar = "N/A") {
         
-            var response  = new ResponseDTO<List <UsuarioDTO>>  () ;
+            var response  = new ResponseDTO<List <UsuarioDTO>>() ;
 
             try
             {
