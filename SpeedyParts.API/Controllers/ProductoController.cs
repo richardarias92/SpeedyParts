@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
+
 using SpeedyParts.Servicio.Contrato;
 using SpeedyParts.DTO;
 using SpeedyParts.Servicio.Implementacion;
@@ -8,27 +10,48 @@ namespace SpeedyParts.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoriaController : ControllerBase
+    public class ProductoController : ControllerBase
     {
-        private readonly ICategoriaServicio _categoriaServicio;
+        private readonly IProductoServicio _productoServicio;
 
-        public CategoriaController(ICategoriaServicio categoriaServicio)
+        public ProductoController(IProductoServicio productoServicio)
         {
-            _categoriaServicio = categoriaServicio;
+            _productoServicio = productoServicio;
         }
 
         [HttpGet("Lista/{buscar:alpha?}")]
         public async Task<IActionResult> Lista(string buscar = "N/A")
         {
 
-            var response = new ResponseDTO<List<CategoriaDTO>>();
+            var response = new ResponseDTO<List<ProductoDTO>>();
 
             try
             {
                 if (buscar == "N/A") buscar = "";
 
                 response.EsCorrecto = true;
-                response.Resultado = await _categoriaServicio.Lista(buscar);
+                response.Resultado = await _productoServicio.Lista(buscar);
+            }
+            catch (Exception ex)
+            {
+
+                response.EsCorrecto = false;
+                response.Mensaje = ex.Message;
+            }
+            return Ok(response);
+        }
+        [HttpGet("Catalogo/{categoria:alpha}/{buscar:alpha?}")]
+        public async Task<IActionResult> Catalogo( string categoria,string buscar = "N/A")
+        {
+
+            var response = new ResponseDTO<List<ProductoDTO>>();
+
+            try
+            {
+                if (categoria.ToLower() == "todo") categoria = "";
+                if (buscar == "N/A") buscar = "";
+                response.EsCorrecto = true;
+                response.Resultado = await _productoServicio.Catalogo(categoria, buscar);
             }
             catch (Exception ex)
             {
@@ -43,12 +66,12 @@ namespace SpeedyParts.API.Controllers
         public async Task<IActionResult> Obtener(int Id)
         {
 
-            var response = new ResponseDTO<CategoriaDTO>();
+            var response = new ResponseDTO<ProductoDTO>();
 
             try
             {
                 response.EsCorrecto = true;
-                response.Resultado = await _categoriaServicio.Obtener(Id);
+                response.Resultado = await _productoServicio.Obtener(Id);
             }
             catch (Exception ex)
             {
@@ -60,15 +83,15 @@ namespace SpeedyParts.API.Controllers
         }
 
         [HttpPost("Crear")]
-        public async Task<IActionResult> Crear([FromBody] CategoriaDTO modelo)
+        public async Task<IActionResult> Crear([FromBody] ProductoDTO modelo)
         {
 
-            var response = new ResponseDTO<CategoriaDTO>();
+            var response = new ResponseDTO<ProductoDTO>();
 
             try
             {
                 response.EsCorrecto = true;
-                response.Resultado = await _categoriaServicio.Crear(modelo);
+                response.Resultado = await _productoServicio.Crear(modelo);
             }
             catch (Exception ex)
             {
@@ -80,7 +103,7 @@ namespace SpeedyParts.API.Controllers
         }
 
         [HttpPut("Editar")]
-        public async Task<IActionResult> Editar([FromBody] CategoriaDTO modelo)
+        public async Task<IActionResult> Editar([FromBody] ProductoDTO modelo)
         {
 
             var response = new ResponseDTO<bool>();
@@ -88,7 +111,7 @@ namespace SpeedyParts.API.Controllers
             try
             {
                 response.EsCorrecto = true;
-                response.Resultado = await _categoriaServicio.Editar(modelo);
+                response.Resultado = await _productoServicio.Editar(modelo);
             }
             catch (Exception ex)
             {
@@ -99,9 +122,8 @@ namespace SpeedyParts.API.Controllers
             return Ok(response);
         }
 
-        
         [HttpDelete("Eliminar/{Id:int}")]
-        public async Task<IActionResult> Eliminar(int Id )
+        public async Task<IActionResult> Eliminar(int Id)
         {
 
             var response = new ResponseDTO<bool>();
@@ -109,7 +131,7 @@ namespace SpeedyParts.API.Controllers
             try
             {
                 response.EsCorrecto = true;
-                response.Resultado = await _categoriaServicio.Eliminar(Id);
+                response.Resultado = await _productoServicio.Eliminar(Id);
             }
             catch (Exception ex)
             {
@@ -120,4 +142,5 @@ namespace SpeedyParts.API.Controllers
             return Ok(response);
         }
     }
+
 }

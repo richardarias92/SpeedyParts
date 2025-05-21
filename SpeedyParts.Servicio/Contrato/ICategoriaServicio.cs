@@ -14,7 +14,7 @@ namespace SpeedyParts.Servicio.Contrato
         Task<CategoriaDTO> Crear(CategoriaDTO modelo);
         Task<bool> Editar(UsuarioDTO modelo);
         Task<bool> Eliminar(int id);
-
+        Task<bool> Editar(CategoriaDTO modelo);
     }
 }
 
