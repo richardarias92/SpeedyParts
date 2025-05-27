@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o41mo3jaXZngdTegqmMkoQ4MbH50hKMaCm0yJJdvxIwbLTa3xc6zyYycWuvCbOIydjDE9a+cXk0wPMIYODBmPg==",
+  "dgSpecHash": "z+7bYiwiSs104xpfV+jpVuz0TzdvFUunius5ZZYZMpWbZ3R67a8pWBiFRW1r1sC5OhaETP8EvV/0A7Jp/h4bQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\SpeedyParts.WebAssembly.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Richard Arias\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
+    "C:\\Users\\Richard Arias\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",
