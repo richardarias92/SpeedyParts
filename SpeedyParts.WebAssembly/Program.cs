@@ -17,8 +17,9 @@ builder.Services.AddBlazoredToast();
 
 builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
 builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
-builder.Services.AddScoped<IPro, UsuarioServicio>();
-builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
-builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
+builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
+builder.Services.AddScoped<ICarritoServicio, CarritoServicio>();
+builder.Services.AddScoped<IVentaServicio, VentaServicio>();
+builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 
 await builder.Build().RunAsync();

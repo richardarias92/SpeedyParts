@@ -826,7 +826,6 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\scopedcss\bundle\SpeedyParts.WebAssembly.styles.css
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\scopedcss\projectbundle\SpeedyParts.WebAssembly.bundle.scp.css
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\SpeedyParts.WebAssembly.csproj.CopyComplete
@@ -834,3 +833,11 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debu
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\refint\SpeedyParts.WebAssembly.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\SpeedyParts.WebAssembly.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\ref\SpeedyParts.WebAssembly.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\Blazored.LocalStorage.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\bin\Debug\net7.0\Blazored.Toast.dll
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\xihwKdXF.gz
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.WebAssembly\obj\Debug\net7.0\build-gz\4RExhcmT.gz
