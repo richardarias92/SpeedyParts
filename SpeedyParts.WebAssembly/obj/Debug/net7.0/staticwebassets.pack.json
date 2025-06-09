@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\wwwroot\\css\\blazored-toast.css",
+      "PackagePath": "staticwebassets\\css\\blazored-toast.css"
+    },
+    {
       "Id": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -67,6 +71,10 @@
     {
       "Id": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\wwwroot\\images\\Logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpeg"
     },
     {
       "Id": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\wwwroot\\index.html",

@@ -1,8 +1,3 @@
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.csproj.AssemblyReference.cache
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.AssemblyInfoInputs.cache
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.AssemblyInfo.cs
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.csproj.CoreCompileInputs.cache
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Servicio.deps.json
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Servicio.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Servicio.pdb
@@ -14,6 +9,11 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\n
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Modelo.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Repositorio.pdb
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\bin\Debug\net7.0\SpeedyParts.Utilidades.pdb
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.csproj.AssemblyReference.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.AssemblyInfoInputs.cache
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.AssemblyInfo.cs
+C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.csproj.CoreCompileInputs.cache
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.csproj.CopyComplete
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\SpeedyParts.Servicio.dll
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.Servicio\obj\Debug\net7.0\refint\SpeedyParts.Servicio.dll

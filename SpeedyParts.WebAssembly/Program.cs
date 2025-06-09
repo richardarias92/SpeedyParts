@@ -5,6 +5,7 @@ using Blazored.LocalStorage;
 using Blazored.Toast;
 using SpeedyParts.WebAssembly.Servicios.Contrato;
 using SpeedyParts.WebAssembly.Servicios.Implementacion;
+using CurrieTechnologies.Razor.SweetAlert2;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -21,5 +22,7 @@ builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
 builder.Services.AddScoped<ICarritoServicio, CarritoServicio>();
 builder.Services.AddScoped<IVentaServicio, VentaServicio>();
 builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
+
+builder.Services.AddSweetAlert2();
 
 await builder.Build().RunAsync();

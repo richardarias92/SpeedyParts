@@ -40,7 +40,7 @@ namespace SpeedyParts.API.Controllers
             }
             return Ok(response);
         }
-        [HttpGet("Catalogo/{categoria:alpha}/{buscar:alpha?}")]
+        [HttpGet("Catalogo/{categoria}/{buscar?}")]
         public async Task<IActionResult> Catalogo( string categoria,string buscar = "N/A")
         {
 
@@ -48,7 +48,7 @@ namespace SpeedyParts.API.Controllers
 
             try
             {
-                if (categoria.ToLower() == "todo") categoria = "";
+                if (categoria.ToLower() == "todos") categoria = "";
                 if (buscar == "N/A") buscar = "";
                 response.EsCorrecto = true;
                 response.Resultado = await _productoServicio.Catalogo(categoria, buscar);

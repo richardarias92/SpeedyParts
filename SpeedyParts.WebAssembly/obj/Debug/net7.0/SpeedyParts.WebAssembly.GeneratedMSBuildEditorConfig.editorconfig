@@ -20,16 +20,60 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Categoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmlhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Categorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmlhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Producto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Productos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Usuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXN1YXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Admin/Usuarios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXN1YXJpb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Autorizacion/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3JpemFjaW9uXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Autorizacion/Registro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3JpemFjaW9uXFJlZ2lzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Tienda/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXENhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Tienda/Catalogo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXENhdGFsb2dvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Pages/Tienda/Detalle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXERldGFsbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Shared/NavMenu.razor]
@@ -43,7 +87,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Richard Arias/source/repos/SPEEDYPARTS/SpeedyParts.WebAssembly/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-0tsc3x9hgu

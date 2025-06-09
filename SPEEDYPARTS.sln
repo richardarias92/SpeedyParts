@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.Modelo", "SpeedyParts.model\SpeedyParts.Modelo.csproj", "{6393163E-B59D-41A6-9843-9B1D6A024C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.Modelo", "SpeedyParts.model\SpeedyParts.Modelo.csproj", "{6393163E-B59D-41A6-9843-9B1D6A024C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.Repositorio", "SpeedyParts.Repositorio\SpeedyParts.Repositorio.csproj", "{230CD29D-5E3C-4FAF-8A59-B231FE88AAC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.Repositorio", "SpeedyParts.Repositorio\SpeedyParts.Repositorio.csproj", "{230CD29D-5E3C-4FAF-8A59-B231FE88AAC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.Servicio", "SpeedyParts.Servicio\SpeedyParts.Servicio.csproj", "{29F27DFE-0097-4236-A358-FE1904F6934D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.Servicio", "SpeedyParts.Servicio\SpeedyParts.Servicio.csproj", "{29F27DFE-0097-4236-A358-FE1904F6934D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.DTO", "SpeedyParts.DTO\SpeedyParts.DTO.csproj", "{AFC5F509-F6A0-4192-97BC-10F584384DA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.DTO", "SpeedyParts.DTO\SpeedyParts.DTO.csproj", "{AFC5F509-F6A0-4192-97BC-10F584384DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.Utilidades", "SpeedyParts.Utilidades\SpeedyParts.Utilidades.csproj", "{2E5AFCB5-11DD-45A5-9066-3240B35226EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.Utilidades", "SpeedyParts.Utilidades\SpeedyParts.Utilidades.csproj", "{2E5AFCB5-11DD-45A5-9066-3240B35226EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.API", "SpeedyParts.API\SpeedyParts.API.csproj", "{4CFAB608-F527-4566-8080-A8C0D0AC30B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.API", "SpeedyParts.API\SpeedyParts.API.csproj", "{4CFAB608-F527-4566-8080-A8C0D0AC30B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyParts.WebAssembly", "SpeedyParts.WebAssembly\SpeedyParts.WebAssembly.csproj", "{1F3A1396-6356-4FEE-A589-6BE99F98AE3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedyParts.WebAssembly", "SpeedyParts.WebAssembly\SpeedyParts.WebAssembly.csproj", "{1F3A1396-6356-4FEE-A589-6BE99F98AE3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

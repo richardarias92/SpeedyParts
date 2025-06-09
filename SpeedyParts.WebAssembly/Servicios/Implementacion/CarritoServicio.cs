@@ -32,7 +32,7 @@ namespace SpeedyParts.WebAssembly.Servicios.Implementacion
             {
                 var carrito = await _localStorageService.GetItemAsync<List<CarritoDTO>>("carrito");
 
-                if ( carrito != null )
+                if ( carrito == null )
                 carrito = new List<CarritoDTO>();
 
                 var encontrado = carrito.FirstOrDefault(c => c.Producto.IdProducto == modelo.Producto.IdProducto);

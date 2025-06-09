@@ -1,0 +1,85 @@
+﻿.blazored-toast-container {
+    top: 1rem !important;
+    right: 1rem !important;
+    left: auto !important;
+    transform: none !important;
+}
+
+.blazored-toast-top-left {
+    top: 1rem;
+    left: 1rem;
+}
+
+.blazored-toast-top-center {
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.blazored-toast-top-right {
+    top: 1rem;
+    right: 1rem;
+}
+
+.blazored-toast-bottom-left {
+    bottom: 1rem;
+    left: 1rem;
+}
+
+.blazored-toast-bottom-center {
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.blazored-toast-bottom-right {
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.blazored-toast {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-left: 5px solid;
+    padding: 1rem;
+    border-radius: .25rem;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    min-width: 300px;
+    max-width: 400px;
+    word-break: break-word;
+}
+
+    .blazored-toast .blazored-toast-close {
+        margin-left: auto;
+        border: none;
+        background: transparent;
+        font-size: 1.25rem;
+        line-height: 1;
+        cursor: pointer;
+    }
+
+    .blazored-toast .blazored-toast-icon {
+        margin-right: 0.75rem;
+        font-size: 1.5rem;
+    }
+
+.blazored-toast-info {
+    border-color: #17a2b8;
+    color: #0c5460;
+}
+
+.blazored-toast-success {
+    border-color: #28a745;
+    color: #155724;
+}
+
+.blazored-toast-warning {
+    border-color: #ffc107;
+    color: #856404;
+}
+
+.blazored-toast-error {
+    border-color: #dc3545;
+    color: #721c24;
+}
