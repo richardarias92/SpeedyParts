@@ -12,6 +12,7 @@
       "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-jaHzMzp157atLBDyTfDX4LuHLGBZ1q\/5g\/2s83upTCk=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-P7\/HRwCqdk3q1MD7UtlAXMN\/E8gZRdzme6ESGZsXHNk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-72wt1Dncw5Whm9zUb3wanQSQBmY\/Ugu9fHEvX\/FtZ8s=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-41dLN3Fx\/ysI0SP+sKtAMWTZamweRiufJ7JPqZlnXrA=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-E0\/WiiyuGn1me5bQB04\/7a\/PMnrIvan9wukL5Mkbpfw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-TCcnSu0lpqwtEpi\/Z+TlkOc8tVugie5X1DJIijkJCYU=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-VkocVueBv04uz\/jQbR5ondezPOmVm3JBsOLji+0L6oU=",
@@ -201,15 +202,15 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "SpeedyParts.DTO.dll": "sha256-2MGk0qkgZs95Xeev8lwyVG5mnU2p03j89dWnpnIBPkQ=",
-      "SpeedyParts.WebAssembly.dll": "sha256-A5Zc6Iyb8k2RajPWLiXQo7s7SxpwPVaV49nXB56QM5U="
+      "SpeedyParts.DTO.dll": "sha256-RWs7MATQcc13ZGct\/pYyhFEBoKsGUyjt\/uLGmBw8KaQ=",
+      "SpeedyParts.WebAssembly.dll": "sha256-1lreNY7gnDB+24NCMS5VMKMmjVcvjGMexPPSs43yftI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SpeedyParts.DTO.pdb": "sha256-geN7a5dxZrJ0yhVJISLnJehzaMvGLTMBMAbLvL\/rkvw=",
-      "SpeedyParts.WebAssembly.pdb": "sha256-iF32fZFprpZB5G8ZJSXVKGzBC1zCPiJUC6Jqw6HRrkY="
+      "SpeedyParts.DTO.pdb": "sha256-Z3Io3ZsiKThPVvK5EDwX7LwbHyysNa2WHk3ue9\/Cn8k=",
+      "SpeedyParts.WebAssembly.pdb": "sha256-r\/XaTi4WScxH\/JAuCLWhaEtPjVJiOlKyPl2Kh00bWeA="
     },
     "runtime": {
       "dotnet.7.0.9.0erv2fah0r.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",

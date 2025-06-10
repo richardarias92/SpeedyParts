@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VLvPfFltfnPDdZg1qcrg+Vt/LVV7mkjlMbOGOu7fFFJu3LrQdtyuBAAzB4mJDEGvvPor3FC+3Yd++7ZMt59X8Q==",
+  "dgSpecHash": "0n73T5wPMCJrxBFT81MSUvxNFcK7RBgt/SBDXaSwiDEHGBYD+TFgZZ7GR1NI8MUbX+ycZv5xNuZ6FJU4sPYPjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\SpeedyParts.WebAssembly.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",
+    "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.5\\microsoft.aspnetcore.components.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.9\\microsoft.aspnetcore.components.forms.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.9\\microsoft.aspnetcore.components.web.7.0.9.nupkg.sha512",
     "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.9\\microsoft.aspnetcore.components.webassembly.7.0.9.nupkg.sha512",

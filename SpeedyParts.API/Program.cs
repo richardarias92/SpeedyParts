@@ -25,7 +25,7 @@ builder.Services.AddDbContext<DbecommerceContext>(options =>
 
 builder.Services.AddTransient(typeof(IGenericoRepositorio<>),typeof(GenericoRepositorio<>));
 
-builder.Services.AddScoped<IVenta, VentaRepositorio>();
+builder.Services.AddScoped<IVentaRepositorio, VentaRepositorio>();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();

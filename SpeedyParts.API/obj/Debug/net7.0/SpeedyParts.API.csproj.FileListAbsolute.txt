@@ -65,7 +65,6 @@ C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\SpeedyParts.API.AssemblyInfoInputs.cache
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\SpeedyParts.API.AssemblyInfo.cs
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\SpeedyParts.API.csproj.CoreCompileInputs.cache
-C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\SpeedyParts.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\SpeedyParts.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\staticwebassets\msbuild.SpeedyParts.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Richard Arias\source\repos\SPEEDYPARTS\SpeedyParts.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SpeedyParts.API.props

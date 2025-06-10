@@ -9,10 +9,9 @@ using SpeedyParts.Repositorio.DBContext;
 
 namespace SpeedyParts.Repositorio.Implementacion
 {
-    public class VentaRepositorio : GenericoRepositorio<Venta>, IVenta
+    public class VentaRepositorio : GenericoRepositorio<Venta>, IVentaRepositorio
     {
         private readonly DbecommerceContext _dbContext;
-
         public VentaRepositorio(DbecommerceContext dbContext) : base(dbContext)
         {
             _dbContext = dbContext;
@@ -23,37 +22,31 @@ namespace SpeedyParts.Repositorio.Implementacion
             Venta ventaGenerada = new Venta();
 
             using (var transaction = _dbContext.Database.BeginTransaction())
-            { 
-                //Disminuir stock de venta
+            {
                 try
-                {    
+                {
                     foreach (DetalleVenta dv in modelo.DetalleVenta)
                     {
                         Producto producto_encontrado = _dbContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
 
                         producto_encontrado.Cantidad = producto_encontrado.Cantidad - dv.Cantidad;
-
                         _dbContext.Productos.Update(producto_encontrado);
                     }
-                    //Guardar los cambios
                     await _dbContext.SaveChangesAsync();
 
-                    //Guardar informacion en tabla de ventas
                     await _dbContext.Venta.AddAsync(modelo);
-
+                    await _dbContext.SaveChangesAsync();
                     ventaGenerada = modelo;
-
                     transaction.Commit();
                 }
-                catch (Exception)
+                catch
                 {
-
                     transaction.Rollback();
                     throw;
                 }
-
-                return ventaGenerada;
             }
+
+            return ventaGenerada;
         }
     }
 }

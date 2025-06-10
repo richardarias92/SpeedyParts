@@ -21,22 +21,21 @@ namespace SpeedyParts.API.Controllers
         [HttpPost("Registrar")]
         public async Task<IActionResult> Registrar([FromBody] VentaDTO modelo)
         {
-
             var response = new ResponseDTO<VentaDTO>();
 
             try
             {
                 response.EsCorrecto = true;
                 response.Resultado = await _ventaServicio.Registrar(modelo);
+
             }
             catch (Exception ex)
             {
-
                 response.EsCorrecto = false;
                 response.Mensaje = ex.Message;
             }
             return Ok(response);
         }
-        
+
     }
 }

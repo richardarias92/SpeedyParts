@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SpeedyParts.Repositorio.Contrato
 {
-    public interface IVenta : IGenericoRepositorio<Venta>
+    public interface IVentaRepositorio : IGenericoRepositorio<Venta>
     {
         Task<Venta> Registrar(Venta modelo);
     }

@@ -9,6 +9,7 @@ namespace SpeedyParts.Servicio.Contrato
 {
     public interface IVentaServicio
     {
+
         Task<VentaDTO> Registrar(VentaDTO modelo);
     }
 }

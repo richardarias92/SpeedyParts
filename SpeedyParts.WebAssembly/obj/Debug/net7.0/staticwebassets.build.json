@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fkre4CGRTmRDsviQJ3x3EbjDI6pNS+M7KVqOXos5URU=",
+  "Hash": "7rcLJF1qtJwCB9GvtDrYlGGL7vkdpDexDSQRE4sRmVA=",
   "Source": "SpeedyParts.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -831,6 +831,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -4503,6 +4520,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\468bK5hk.gz",
+      "SourceId": "SpeedyParts.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Richard Arias\\source\\repos\\SPEEDYPARTS\\SpeedyParts.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\4LPpOQ+c.gz",
